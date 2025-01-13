@@ -1,8 +1,7 @@
 # Octopull Discord Bot
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8abc6de0-6cdd-4a20-8453-63b27acaea32" alt="Octopull-Logo" width="245">
+  <img src="https://github.com/user-attachments/assets/2fe68f78-417e-476d-b326-2d717f5e8cce" alt="Octopull-Logo" width="245">
 </p>
 
 
